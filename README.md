@@ -1,19 +1,35 @@
-# SOFIES Python Program
+# SOFIE'S Python Program
 
 ## Installation
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/SofieAmalie44/command-line-repo.git
+   To clone the repository, open your terminal and run:
 
-2. **After cloning:**
+   ```bash
+   git clone https://github.com/SofieAmalie44/command-line-repo.git  
+
+
+2. **Run the program:**
+
+  After cloning, navigate to the cloned directory and run the program:
 
   ```bash
-  ./sofies_program.py  **this runs the program in the terminal**
+  cd command-line-repo
+  ./sofies_program.py  
+
+  In case the script doesn't run, you may need to give it execute 
+  permissions first:
+
+  ```bash
+  chmod +x sofies_program.py
+
 
 3. **Open the python program VScode:**
 
-  ```bash
-  open your newly clodes repo in VScode and see the the python file for 
-  real.
+  If you'd like to edit or view the Python file in VS Code, you can open the repository folder:
+
+  - Open VS Code.
+  - Select File > Open Folder.
+  - Choose the cloned repository folder (command-line-repo).
+  - Now, you can explore sofies_program.py in your own editor!
