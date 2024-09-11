@@ -12,7 +12,8 @@
   ```bash
   ./sofies_program.py  **this runs the program in the terminal**
 
-3. **Open the python program in VScode:**
+3. **Open the python program VScode:**
 
+  ````bash
   open your newly clodes repo in VScode and see the the python file for 
   real.
