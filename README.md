@@ -14,6 +14,6 @@
 
 3. **Open the python program VScode:**
 
-  ````bash
+  ```bash
   open your newly clodes repo in VScode and see the the python file for 
   real.
